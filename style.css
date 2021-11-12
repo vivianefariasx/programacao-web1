@@ -1,0 +1,95 @@
+h1{ text-align: center;
+}
+.subtitle{ margin-left: auto;
+    margin-right: auto;
+    width: 42em;
+}
+
+body{
+    background: rgb(78, 192, 158);
+}
+
+#title, .subtitle{
+    color: rgb(8, 8, 8);
+}
+
+.post_title{
+    color: rgb(7, 8, 8);
+    font-size: 28px;
+    font-style: Arial;
+    
+}
+
+.post.img{
+    position: absolute;
+    top: 300px; bottom: 150px;; left: 700px; right:200px;
+    margin: auto;
+}
+
+.sub_post_title{
+    color: rgb(19, 141, 80);
+    font-size: 20px;
+    font-style: Arial;
+    
+}
+
+.texto_materia{
+    color: rgb(6, 6, 8);
+    width: 42em;
+}
+
+
+
+.post{
+    background: #fff;
+    display: inline;
+    float: left;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 47.6%;
+    margin:10px;
+    
+    
+
+    
+}
+
+div.logo{
+    position: absolute;
+    top: 25px; bottom: 150px;; left: 40px; right:200px;
+    margin: auto;
+}
+
+div.foto_post{
+    position: absolute;
+    top: 300px; bottom: 150px;; left: 700px; right:200px;
+    margin: auto;
+}
+
+div.foto_post2{
+    position: absolute;
+    top: 300px; bottom: 150px;; left: 1675px; right:200px;
+    margin: auto;
+}
+
+.rodape_2{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+}
+
+#rodape_2 img{
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        object-fit: cover;
+}
