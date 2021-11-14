@@ -1,6 +1,6 @@
-# Bem vindo aos nossos projetos de aulas da UFAL Penedo
+# Projetos das aulas da disciplina Programação Web 1 da  UFAL Penedo
 Projetos dos exemplos e links vistos nas aulas da UFAL Penedo
-## Exercício aula 04/11/2021
+## Exercício 1 aula 04/11/2021
 * Neste exercício você deve estilizar a página semantica.html, contida neste projeto do GitHub, para isso, basta clonar ou realizar o download do arquivo. Os alunos com experiência em criação de páginas Web, darei uma pontuação extra, para quem fizer uma nova roupagem para a página semantica.html usando CSS, postar no seu repositório no Github e me mandar o link no Google Classroom.
 ## Links úteis
 * Ícones externos com [Font Awesome](https://fontawesome.com/)
